@@ -1,0 +1,10 @@
+﻿  namedpipes_client.cpp
+C:\Users\User\Downloads\MEP_named_pipes\namedpipes_client\namedpipes_client.cpp(67,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\MEP_named_pipes\namedpipes_client\namedpipes_client.cpp(77,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\MEP_named_pipes\namedpipes_client\namedpipes_client.cpp(156,13): warning C4477: 'snprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\User\Downloads\MEP_named_pipes\namedpipes_client\namedpipes_client.cpp(156,13): warning C4313: 'snprintf': '%s' in format string conflicts with argument 1 of type 'int'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 127 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  namedpipes_client.vcxproj -> C:\Users\User\Downloads\MEP_named_pipes\x64\Release\namedpipes_client.exe

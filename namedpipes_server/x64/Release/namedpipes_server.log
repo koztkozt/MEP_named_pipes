@@ -1,0 +1,9 @@
+﻿  namedpipes_server.cpp
+C:\Users\User\Downloads\MEP_named_pipes\namedpipes_server\namedpipes_server.cpp(67,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\MEP_named_pipes\namedpipes_server\namedpipes_server.cpp(77,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\MEP_named_pipes\namedpipes_server\namedpipes_server.cpp(206,22): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 101 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  namedpipes_server.vcxproj -> C:\Users\User\Downloads\MEP_named_pipes\x64\Release\namedpipes_server.exe
